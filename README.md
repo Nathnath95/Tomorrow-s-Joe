@@ -12,4 +12,4 @@ To access the database, download the "SQLPart" folder in the repository and exec
 
 
 
-CREDITS TO KOMPAS PRODUCTIONS FOR THE GAME ASSETS.
+Credits to Kompas Productions for the game assets.
