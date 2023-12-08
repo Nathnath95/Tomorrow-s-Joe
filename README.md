@@ -9,4 +9,4 @@ This repository contains the codes, game assets, and the necessary text files fo
 
 To play the game:
 1. Install Ren'Py on your device.
-2. 
+2. Locate the "renpy games" folder and 
