@@ -7,7 +7,9 @@ In doing so, they will slowly start to like you. So keep helping, and who knows?
 
 This repository contains the codes, game assets, and the necessary text files for the game and it's SQL functions.
 
-To play the game:
-1. Install Ren'Py on your device, and download the "Tomorrow's Joe Game" folder in the repository.
-2. After the installation of Ren'Py, locate the "renpy games" folder and paste the "Tomorrow's Joe Game" there.
-3. Open Ren'Py select Tomorrow's Joe Game 
+To play the game, head to https://drive.google.com/drive/folders/1fskZ34vPMhPYq9-o8QUBY3oIXC5jObRb?usp=sharing and install the ZIP file.
+To access the database, download the "SQLPart" folder in the repository and execute the "main.py".
+
+
+
+CREDITS TO KOMPAS PRODUCTIONS FOR THE GAME ASSETS.
