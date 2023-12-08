@@ -8,5 +8,6 @@ In doing so, they will slowly start to like you. So keep helping, and who knows?
 This repository contains the codes, game assets, and the necessary text files for the game and it's SQL functions.
 
 To play the game:
-1. Install Ren'Py on your device.
-2. Locate the "renpy games" folder and 
+1. Install Ren'Py on your device, and download the "Tomorrow's Joe Game" folder in the repository.
+2. After the installation of Ren'Py, locate the "renpy games" folder and paste the "Tomorrow's Joe Game" there.
+3. Open Ren'Py select Tomorrow's Joe Game 
